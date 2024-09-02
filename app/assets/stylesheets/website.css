@@ -5,14 +5,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #e9ecef; /* Light gray text */
+  color: #d1d5d9; /* Light gray text */
   padding: 10px 20px;
 }
 /* Navigation bar link styles */
 .navbar a {
   display: flex;
   align-items: center;
-  color: #e9ecef; /* Light gray color for text */
+  color: #cccfd1; /* Light gray color for text */
   text-decoration: none;
   font-weight: 50;
   font-size: 16px;
