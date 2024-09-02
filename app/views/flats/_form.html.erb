@@ -1,0 +1,41 @@
+<%= form_with(model: flat) do |form| %>
+  <% if flat.errors.any? %>
+    <div class="text-danger">
+      <h2><%= pluralize(flat.errors.count, "error") %> prohibited this flat from being saved:</h2>
+      <ul>
+        <% flat.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="mb-3">
+    <%= form.label :name, style: "display: block", class: "text-secondary" %>
+    <%= form.text_field :name, class: "form-control bg-light text-dark border-secondary" %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :address, style: "display: block", class: "text-secondary" %>
+    <%= form.text_field :address, class: "form-control bg-light text-dark border-secondary" %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :description, style: "display: block", class: "text-secondary" %>
+    <%= form.text_area :description, class: "form-control bg-light text-dark border-secondary" %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :price_per_night, style: "display: block", class: "text-secondary" %>
+    <%= form.number_field :price_per_night, class: "form-control bg-light text-dark border-secondary" %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :number_of_guests, style: "display: block", class: "text-secondary" %>
+    <%= form.number_field :number_of_guests, class: "form-control bg-light text-dark border-secondary" %>
+  </div>
+
+  <div>
+    <%= form.submit "Save Changes", class: "btn btn-outline-secondary" %>
+  </div>
+<% end %>
