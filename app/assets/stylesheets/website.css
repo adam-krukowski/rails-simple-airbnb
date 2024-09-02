@@ -1,11 +1,11 @@
  /* Style the navigation bar */
 .navbar {
-  background-color: #74818e; /* Dark gray background */
+  background-color: #929292; /* Dark gray background */
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #0d0d0e; /* Light gray text */
+  color: #6a6a6d; /* Light gray text */
   padding: 10px 20px;
 }
 /* Navigation bar link styles */
@@ -23,8 +23,8 @@
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #052d57; /* Medium gray background on hover */
-  color: #92b8ed; /* White text on hover */
+  background-color: #4c4c4d; /* Medium gray background on hover */
+  color: #c8ccd1; /* White text on hover */
 }
 
 /* Spacing between icon and text */
