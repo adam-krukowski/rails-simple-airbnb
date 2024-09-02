@@ -23,8 +23,8 @@
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #cfdae6; /* Medium gray background on hover */
-  color: #ffffff; /* White text on hover */
+  background-color: #052d57; /* Medium gray background on hover */
+  color: #92b8ed; /* White text on hover */
 }
 
 /* Spacing between icon and text */
