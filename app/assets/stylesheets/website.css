@@ -1,11 +1,11 @@
  /* Style the navigation bar */
 .navbar {
-  background-color: #929292; /* Dark gray background */
+  background-color: #071E22; /* Navy background */
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #6a6a6d; /* Light gray text */
+  color: #e9ecef; /* Light gray text */
   padding: 10px 20px;
 }
 /* Navigation bar link styles */
@@ -23,8 +23,8 @@
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #4c4c4d; /* Medium gray background on hover */
-  color: #c8ccd1; /* White text on hover */
+  background-color: #495057; /* Medium gray background on hover */
+  color: #ffffff; /* White text on hover */
 }
 
 /* Spacing between icon and text */
@@ -60,35 +60,35 @@
   object-fit: cover;
 }
 
-      .card-body {
-        padding: 15px;
-      }
+.card-body {
+  padding: 15px;
+}
 
-      .btn-group .btn {
-        margin-right: 5px;
-      }
+.btn-group .btn {
+  margin-right: 5px;
+}
 
-      .btn-outline-primary {
-        color: #0d6efd;
-        border-color: #0d6efd;
-      }
+.btn-outline-primary {
+  color: #0d6efd;
+  border-color: #0d6efd;
+}
 
-      .btn-outline-warning {
-        color: #ffc107;
-        border-color: #ffc107;
-      }
+.btn-outline-warning {
+  color: #ffc107;
+  border-color: #ffc107;
+}
 
-      .btn-outline-danger {
-        color: #dc3545;
-        border-color: #dc3545;
-      }
+.btn-outline-danger {
+  color: #dc3545;
+  border-color: #dc3545;
+}
 
-      .btn-outline-primary:hover,
-      .btn-outline-warning:hover,
-      .btn-outline-danger:hover {
-        opacity: 4.8;
-      }
+.btn-outline-primary:hover,
+.btn-outline-warning:hover,
+.btn-outline-danger:hover {
+  opacity: 4.8;
+}
 
-      .text-muted {
-        color: #6c757d;
-      }
+.text-muted {
+  color: #6c757d;
+}
