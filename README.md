@@ -17,3 +17,35 @@ Features
 📸 Random Flat Images: Each flat displays a unique random image using Picsum.
 
 📊 Responsive Layout: Mobile-friendly design with a responsive grid layout.
+
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/adam-krukowski/rails-simple-airbnb.git
+
+Navigate to the project directory:
+
+cd rails-flatstorent
+
+Install dependencies:
+
+bundle install
+
+yarn install
+
+Set up the database:
+
+
+rails db:create 
+
+db:migrate
+
+
+Start the Rails server:
+
+rails server
+
+Open the app: Go to http://localhost:3000 in your browser.
+
