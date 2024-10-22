@@ -6,10 +6,5 @@ RailsFlatstorent is an Airbnb-inspired web application built with Ruby on Rails.
 Features
 🔍 Browse and search for available flats.
 
-📝 Users can sign up, log in, and manage their profiles.
+📝 Users can sign up, log in.
 
-🏢 Flat owners can list their properties with details such as name, address, price, and guest capacity.
-
-📅 Book flats for short-term stays.
-
-🔒 Admin users can manage listings and perform other administrative tasks.
