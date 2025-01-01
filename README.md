@@ -18,6 +18,24 @@ Features
 
 📊 Responsive Layout: Mobile-friendly design with a responsive grid layout.
 
+👥 Distinct Views for Customers and Admins:
+Screenshots illustrate how the platform adapts to different user roles. Customers see a sleek interface showcasing available flats, complete with images, prices, and descriptions. Admins have access to an additional management panel for creating, editing, or deleting flat listings.
+
+⚪️ Customer's view
+
+<img width="1907" alt="Screenshot 2025-01-01 at 23 38 07" src="https://github.com/user-attachments/assets/0f915c0a-7536-4253-955a-1a5a9404cea7" />
+
+
+<img width="1920" alt="Screenshot 2025-01-01 at 23 38 17" src="https://github.com/user-attachments/assets/94103c77-3dda-4cc5-9e14-76783c5fc2d4" />
+
+⚪️ Admin's view
+
+<img width="1920" alt="Screenshot 2025-01-01 at 23 39 21" src="https://github.com/user-attachments/assets/4fdfe5e0-c7aa-4f7d-90e6-ba37857a431a" />
+
+<img width="1920" alt="Screenshot 2025-01-01 at 23 39 37" src="https://github.com/user-attachments/assets/cd0e0e4a-165f-457b-9b80-bdecde32aa0c" />
+
+<img width="1920" alt="Screenshot 2025-01-01 at 23 50 46" src="https://github.com/user-attachments/assets/aaf6ff0a-0e1b-46a9-9243-b5d296ae9800" />
+
 
 Installation
 
