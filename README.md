@@ -32,7 +32,9 @@ Screenshots illustrate how the platform adapts to different user roles. Customer
 
 <img width="1920" alt="Screenshot 2025-01-01 at 23 39 21" src="https://github.com/user-attachments/assets/4fdfe5e0-c7aa-4f7d-90e6-ba37857a431a" />
 
+
 <img width="1920" alt="Screenshot 2025-01-01 at 23 39 37" src="https://github.com/user-attachments/assets/cd0e0e4a-165f-457b-9b80-bdecde32aa0c" />
+
 
 <img width="1920" alt="Screenshot 2025-01-01 at 23 50 46" src="https://github.com/user-attachments/assets/aaf6ff0a-0e1b-46a9-9243-b5d296ae9800" />
 
